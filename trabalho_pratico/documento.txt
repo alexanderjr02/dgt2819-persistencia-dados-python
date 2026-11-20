@@ -1,0 +1,55 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA EM DADOS
+
+Pelo presente instrumento particular, de um lado a empresa contratante, pessoa jurídica de direito privado,
+e de outro lado a empresa contratada, especializada em mineração de dados, ambas devidamente qualificadas,
+resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condições a seguir descritas.
+
+CLÁUSULA PRIMEIRA: DO OBJETO
+O objeto deste contrato é a prestação de serviços de consultoria em análise e mineração de dados,
+compreendendo a coleta, o tratamento, a classificação e a interpretação das informações fornecidas
+pela contratante, com a finalidade de apoiar a tomada de decisão estratégica.
+
+CLÁUSULA SEGUNDA: DAS OBRIGAÇÕES DA CONTRATADA
+A contratada obriga-se a executar os serviços com zelo, diligência e boa-fé, observando as normas técnicas
+aplicáveis, a legislação vigente e as orientações formais da contratante. A contratada responderá pelos
+danos que causar por culpa ou dolo, bem como pela atuação de seus prepostos e subcontratados.
+
+CLÁUSULA TERCEIRA: DAS OBRIGAÇÕES DA CONTRATANTE
+A contratante obriga-se a fornecer os documentos, as bases de dados e os acessos necessários à execução
+do objeto, a efetuar os pagamentos nos prazos ajustados e a indicar um representante responsável pelo
+acompanhamento e pela fiscalização dos serviços.
+
+CLÁUSULA QUARTA: DO PREÇO E DO PAGAMENTO
+Pelos serviços prestados, a contratante pagará à contratada o valor mensal ajustado na proposta comercial,
+mediante a emissão de nota fiscal. O atraso no pagamento sujeitará a contratante à multa moratória de dois
+por cento, acrescida de juros de mora de um por cento ao mês e de correção monetária.
+
+CLÁUSULA QUINTA: DO PRAZO E DA VIGÊNCIA
+O presente contrato terá vigência de doze meses, contados da data de sua assinatura, podendo ser prorrogado
+por meio de termo aditivo, desde que haja manifestação expressa e por escrito de ambas as partes.
+
+CLÁUSULA SEXTA: DA CONFIDENCIALIDADE E DA PROTEÇÃO DE DADOS
+As partes comprometem-se a manter sigilo sobre as informações a que tiverem acesso em razão deste contrato.
+O tratamento de dados pessoais observará a Lei Geral de Proteção de Dados Pessoais, cabendo à contratada
+adotar medidas de segurança técnicas e administrativas aptas a proteger os dados contra acessos não autorizados,
+perda, alteração, comunicação ou difusão indevida.
+
+CLÁUSULA SÉTIMA: DA PROPRIEDADE INTELECTUAL
+Os relatórios, modelos, códigos e demais produtos desenvolvidos em decorrência deste contrato serão de
+propriedade da contratante após a quitação integral do preço, ressalvados os direitos morais do autor.
+
+CLÁUSULA OITAVA: DA RESCISÃO
+O contrato poderá ser rescindido por qualquer das partes, mediante aviso prévio de trinta dias, ou de imediato
+em caso de descumprimento de obrigação contratual, falência, recuperação judicial ou caso fortuito e força maior
+que impeça a continuidade da execução. A parte que der causa à rescisão indenizará a outra pelas perdas e danos.
+
+CLÁUSULA NONA: DAS DISPOSIÇÕES GERAIS
+A tolerância de uma das partes quanto ao descumprimento de qualquer cláusula não implicará renúncia nem novação.
+Este instrumento obriga as partes, seus herdeiros e sucessores, e somente poderá ser alterado por escrito.
+
+CLÁUSULA DÉCIMA: DO FORO
+Fica eleito o foro da comarca da sede da contratante para dirimir quaisquer dúvidas ou litígios oriundos deste
+contrato, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
+
+E, por estarem assim justas e contratadas, as partes assinam o presente instrumento em duas vias de igual teor
+e forma, na presença de duas testemunhas.
