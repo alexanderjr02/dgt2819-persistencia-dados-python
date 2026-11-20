@@ -1,0 +1,4 @@
+Python permite ler e gravar arquivos de forma simples.
+O método open abre o arquivo e o modo w cria um arquivo novo.
+Cada frase desta lista vira uma linha no arquivo texto.txt.
+Depois de escrever, o arquivo deve ser fechado com close.
